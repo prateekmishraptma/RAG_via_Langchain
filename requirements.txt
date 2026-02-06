@@ -1,0 +1,6 @@
+langchain
+openai
+langchain
+langchain_commnunity
+langchain_text_splitters
+bs4
